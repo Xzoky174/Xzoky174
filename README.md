@@ -20,9 +20,4 @@
 
 ---
 
-### Currently Working On:
-[A YouTube Clone](https://github.com/Xzoky174/Youtube-Clone.git)
-
----
-
 #### That's all I have. Instead of checking other people's profiles, go study or something!
