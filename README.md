@@ -20,4 +20,4 @@
 
 ---
 
-#### That's all I have. Instead of checking other people's profiles, go study or something!
+#### That's it. Now stop stalking me.
