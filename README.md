@@ -4,7 +4,7 @@
 
 ### 👩‍💻 About Me:
 - 🔭Student in highschool.
-- 📚 Learning full-stack web development.
+- 🎉 For Fun.
 
 ---
 
