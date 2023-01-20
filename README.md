@@ -3,7 +3,7 @@
 </div>
 
 ### 👩‍💻 About Me:
-- 🔭Student in highschool.
+- 🔭 Student in highschool.
 - 🎉 For Fun.
 
 ---
